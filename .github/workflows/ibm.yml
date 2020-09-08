@@ -1,5 +1,5 @@
 name: IBM Cloud Auto Restart
-
+commit
 on:
   push:
     branches: [ master ]
